@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 485.42 364.2">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 0 0 23.84 23.84;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 7px;
+      }
+
+      .cls-3 {
+        font-family: Kalam-Regular, Kalam;
+        font-size: 96.66px;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(1.45 84) rotate(1.83)"><tspan x="0" y="0">Votre image</tspan></text>
+  <g>
+    <path class="cls-2" d="m297.3,124.38c.07,3.46.11,7.82.02,12.88"/>
+    <path class="cls-1" d="m296.02,161.06c-3.57,38.48-15.94,92.09-56.27,122.88-31.33,23.93-86.04,39.06-120.58,48.61-1.46.4-2.89.79-4.3,1.17"/>
+    <path class="cls-2" d="m103.33,336.71c-4.56,1.13-8.76,2.12-12.54,2.97"/>
+    <path d="m130.07,296.33c1.37,1.36,1.38,3.58.02,4.95l-37.74,37.99,50.39,18.13c1.82.66,2.77,2.66,2.11,4.48-.66,1.82-2.68,2.75-4.48,2.11l-55.56-20c-1.12-.41-1.97-1.36-2.23-2.52-.26-1.17.09-2.39.93-3.24l41.61-41.89c.49-.49,1.08-.8,1.71-.95,1.13-.25,2.36.06,3.24.93Z"/>
+  </g>
+</svg>
